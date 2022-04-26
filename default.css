@@ -268,6 +268,7 @@ h6 {font-size: 16px;}
     width: 25%;
    
 }
+
 .post-wrapper{
     display: grid;
     grid-template-columns: repeat(auto-fit,minmax(360px,1fr));
